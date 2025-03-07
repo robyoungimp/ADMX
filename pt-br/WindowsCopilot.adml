@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) Microsoft Corporation. All rights reserved.  -->
+<policyDefinitionResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="1.0" schemaVersion="1.0" xmlns="http://schemas.microsoft.com/GroupPolicy/2006/07/PolicyDefinitions">
+  <displayName>insira o nome de exibição aqui</displayName>
+  <description>digite a descrição aqui</description>
+  <resources>
+    <stringTable>
+      <string id="WindowsCopilot">Windows Copilot</string>
+      <string id="TurnOffWindowsCopilot">Desativar o Windows Copilot</string>
+      <string id="TurnOffWindowsCopilot_Help">
+        Essa configuração de política permite que você desative o Windows Copilot.
+
+        Se você habilitar essa configuração de política, os usuários não poderão usar o Copilot. O ícone do Copilot também não aparecerá na barra de tarefas.
+
+        Se você desabilitar ou não definir essa configuração de política, os usuários poderão usar o Copilot quando ele estiver disponível para eles.
+      </string>
+    </stringTable>
+  </resources>
+</policyDefinitionResources>

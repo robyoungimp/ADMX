@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) Microsoft Corporation. All rights reserved.  -->
+<policyDefinitionResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="1.0" schemaVersion="1.0" xmlns="http://schemas.microsoft.com/GroupPolicy/2006/07/PolicyDefinitions">
+  <displayName>tutaj wprowadź wyświetlaną nazwę</displayName>
+  <description>tutaj wprowadź opis</description>
+  <resources>
+    <stringTable>
+      <string id="WindowsCopilot">Windows Copilot</string>
+      <string id="TurnOffWindowsCopilot">Wyłącz funkcję Copilot systemu Windows</string>
+      <string id="TurnOffWindowsCopilot_Help">
+        To ustawienie zasad umożliwia wyłączenie usługi Windows Copilot.
+
+        Jeśli włączysz to ustawienie zasad, użytkownicy nie będą mogli korzystać z usługi Copilot. Ikona Copilot również nie będzie wyświetlana na pasku zadań.
+
+        Jeśli wyłączysz to ustawienie zasad lub go nie skonfigurujesz, użytkownicy będą mogli korzystać z usługi Copilot, gdy będzie ona dla nich dostępna.
+      </string>
+    </stringTable>
+  </resources>
+</policyDefinitionResources>

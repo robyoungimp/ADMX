@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) Microsoft Corporation. All rights reserved.  -->
+<policyDefinitionResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="1.0" schemaVersion="1.0" xmlns="http://schemas.microsoft.com/GroupPolicy/2006/07/PolicyDefinitions">
+  <displayName>表示名をここに入力する</displayName>
+  <description>ここに説明を入力してください</description>
+  <resources>
+    <stringTable>
+      <string id="WindowsCopilot">Windows Copilot</string>
+      <string id="TurnOffWindowsCopilot">Windows Copilot をオフにする</string>
+      <string id="TurnOffWindowsCopilot_Help">
+        このポリシー設定により、Windows Copilot をオフにすることができます。
+
+       このポリシー設定を有効にすると、ユーザーは Copilot を使用できなくなります。Copilot アイコンもタスクバーに表示されません。
+
+       このポリシー設定を無効にした場合、または構成しなかった場合、ユーザーは Copilot が利用可能なときにそれを使用できるようになります。
+      </string>
+    </stringTable>
+  </resources>
+</policyDefinitionResources>

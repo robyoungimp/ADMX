@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) Microsoft Corporation. All rights reserved.  -->
+<policyDefinitionResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="1.0" schemaVersion="1.0" xmlns="http://schemas.microsoft.com/GroupPolicy/2006/07/PolicyDefinitions">
+  <displayName>kirjoita näyttönimi tähän</displayName>
+  <description>kirjoita kuvaus tähän</description>
+  <resources>
+    <stringTable>
+      <string id="WindowsCopilot">Windows Copilot</string>
+      <string id="TurnOffWindowsCopilot">Poista Windows Copilot käytöstä</string>
+      <string id="TurnOffWindowsCopilot_Help">
+        Tämän käytäntöasetuksen avulla voit poistaa Windows Copilotin käytöstä.
+
+        Jos otat tämän käytäntöasetuksen käyttöön, käyttäjät eivät voi käyttää Copilotia. Copilot-kuvake ei myöskään näy tehtäväpalkissa.
+
+        Jos poistat tämän käytäntöasetuksen käytöstä tai et määritä sitä, käyttäjät voivat käyttää Copilotia, kun se on heidän käytettävissään.
+      </string>
+    </stringTable>
+  </resources>
+</policyDefinitionResources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) Microsoft Corporation. All rights reserved.  -->
+<policyDefinitionResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="1.0" schemaVersion="1.0" xmlns="http://schemas.microsoft.com/GroupPolicy/2006/07/PolicyDefinitions">
+  <displayName>在此輸入顯示名稱</displayName>
+  <description>在此輸入描述</description>
+  <resources>
+    <stringTable>
+      <string id="WindowsCopilot">Windows Copilot</string>
+      <string id="TurnOffWindowsCopilot">關閉 Windows Copilot</string>
+      <string id="TurnOffWindowsCopilot_Help">
+        這個原則設定可讓您關閉 Windows Copilot。
+
+如果您啟用這個原則設定，使用者將無法使用 Copilot。Copilot 圖示也不會出現在工作列上。
+
+如果停用或未設定此原則設定，使用者將能夠在系統提供他們 Copilot 時，進行使用。
+      </string>
+    </stringTable>
+  </resources>
+</policyDefinitionResources>
